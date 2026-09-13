@@ -1,2 +1,5 @@
-# cs82a-portfolio
-Labs and final project for CS 82A Introduction to Data Science at SMC
+# Emily Flores - Data Science Portfolio 
+Labs and Final Project from Intro to Data Science Course 
+
+#Contents 
+-Module 2: Python Foundations 
