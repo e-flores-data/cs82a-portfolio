@@ -5,3 +5,4 @@ Labs and Final Project from Intro to Data Science Course
 -Module 2: Python Foundations 
 -Module 3: Data: Types, Storage, Cleaning
 -Module 4: Statistics 
+-Module 5: Visualization and Statistical Analysis
