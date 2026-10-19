@@ -7,3 +7,4 @@ Labs and Final Project from Intro to Data Science Course
 -Module 4: Statistics 
 -Module 5: Visualization and Statistical Analysis
 -Module 6: SQL and Databases
+-Module 7: Machine Learning
