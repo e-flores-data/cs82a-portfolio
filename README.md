@@ -8,3 +8,4 @@ Labs and Final Project from Intro to Data Science Course
 -Module 5: Visualization and Statistical Analysis
 -Module 6: SQL and Databases
 -Module 7: Machine Learning
+Module 8: Working with AI (Generative AI)
